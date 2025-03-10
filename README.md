@@ -35,4 +35,5 @@ This application demonstrates key concepts of API integration, JSON parsing, and
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1e3192ae-b98c-4719-837c-46f079ed85e7)
 
