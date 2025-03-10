@@ -1,5 +1,4 @@
-#REST API
-CLIENT
+# REST API CLIENT
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
@@ -12,7 +11,6 @@ CLIENT
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTOSH
-This Java program is a simple weather application that fetches real-time weather data for a specified city using the OpenWeatherMap API. It retrieves information such as temperature, humidity, and weather conditions, then displays it in a structured format.
 
 The program begins by defining the API key and the base URL for the OpenWeatherMap API. A default city, Dehradun, is set, but this can be replaced with any city name. The API URL is constructed by appending the city name and API key to the base URL, along with a query parameter to return the temperature in Celsius.
 
@@ -34,3 +32,7 @@ Weather description (e.g., "clear sky" or "light rain")
 Finally, the extracted data is displayed in a user-friendly format, making it easy to understand the current weather conditions for the selected city. The program includes basic error handling to catch exceptions if there is an issue fetching the data.
 
 This application demonstrates key concepts of API integration, JSON parsing, and handling HTTP requests in Java. It can be improved by allowing user input for city selection, better error handling for invalid responses, and integrating additional weather parameters such as wind speed or atmospheric pressure.
+
+OUTPUT
+
+
